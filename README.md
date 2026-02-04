@@ -1,1 +1,1 @@
-PCB Design Exercise Projects for KiCAD beginner Course
+KiCAD PCB Design Exercise Projects
