@@ -1,2 +1,1 @@
-# Keyring-flashlight
-PCB Design Exercise Project for KiCAD beginner Course
+# PCB Design Exercise Projects for KiCAD beginner Course
