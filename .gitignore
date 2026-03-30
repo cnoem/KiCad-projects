@@ -1,0 +1,18 @@
+# KiCad local settings, backups, lib cache
+*.bak
+*.tmp
+sym-lib-table-bak
+fp-lib-table-bak
+*-cache.lib
+*-cache-kicad_sym
+*.kicad_prl
+*.kicad_pro.user
+.fp-info-cache
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
