@@ -8,6 +8,8 @@ fp-lib-table-bak
 *.kicad_prl
 *.kicad_pro.user
 .fp-info-cache
+*-backups/
+.history/
 
 # Python cache
 __pycache__/

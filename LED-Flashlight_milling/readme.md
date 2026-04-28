@@ -49,7 +49,7 @@ The license applies to all hardware design files in this repository, including:
 
 ## Tools
 
-* Designed with KiCad 10
+* Designed with KiCad 9
 
 
 

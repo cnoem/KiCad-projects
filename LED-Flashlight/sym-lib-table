@@ -1,5 +1,4 @@
 (sym_lib_table
 	(version 7)
 	(lib (name "Keychain-flashlight") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbols") (options "") (descr ""))
-	(lib (name "SMPS-ICs") (type "KiCad") (uri "C:/Users/cnoem/OneDrive/Desktop/EL4_Kicad_Screenshots/Uebungsdateien_Bibliotheken/symbols") (options "") (descr ""))
 )
