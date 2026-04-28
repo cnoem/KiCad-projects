@@ -1,6 +1,7 @@
 # KiCad local settings, backups, lib cache
 *.bak
 *.tmp
+*.lck
 sym-lib-table-bak
 fp-lib-table-bak
 *-cache.lib
